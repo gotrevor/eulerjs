@@ -20,3 +20,4 @@
     }
     console.log("Sum off even fib terms to 4 million: " + accumulator);
 }());
+
