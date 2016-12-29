@@ -18,6 +18,6 @@
         fibTermA = fibTermB;
         fibTermB = sumTempHolder;
     }
-    console.log("Sum off even fib terms to 4 million: " + accumulator);
+    console.log("Sum of even fib terms to 4 million: " + accumulator);
 }());
 
